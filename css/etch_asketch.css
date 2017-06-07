@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+
+    background-color: #cee4fb;
+
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+   width: 710px;
+   margin-top: 15px;
+   margin-right: auto;
+   margin-bottom: 10px;
+   margin-left: auto;
+
+   color: #ffffff;
+   border-radius: 5px;
+   background-color: #2f5fb0;
+ }
+
+button{
+    width: 85px;
+    margin: 10px 15px;
+
+    color: #ffffff;
+    border: 2px solid #4683ea;
+    border-radius: 3px;
+    background-color: #2f5fb0;
+
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+button:hover {
+    box-shadow: 3px 3px 2px #4683ea;
+}
+
+#container{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+
+    border: 5px solid #2f5fb0;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.square{
+    display: inline-block;
+    float: left;
+
+    border: 1px solid #cfd1d4;
+}
+
+.colored {
+    border: 1px solid #ffffff;
+}

@@ -2,7 +2,9 @@
 The Odin Project - Javascript/jQuery
 
 Instructions:
+
 You're going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
+
 1. Create a web page with a 16x16 grid of square divs.
 2. Set up a hover effect so it changes the color of the square when your mouse passes over it, 
    leaving a (pixelated) trail through your grid like a pen would.

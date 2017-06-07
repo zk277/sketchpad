@@ -1,5 +1,6 @@
 # sketchpad
 The Odin Project - Javascript/jQuery
+
 Instructions:
 You're going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
 1. Create a web page with a 16x16 grid of square divs.

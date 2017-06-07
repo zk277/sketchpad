@@ -1,5 +1,6 @@
 # sketchpad
 The Odin Project - Javascript/jQuery
+https://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery
 
 Instructions:
 
